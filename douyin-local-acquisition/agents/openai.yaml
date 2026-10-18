@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音同城获客与0粉起号"
+  short_description: "为本地商家生成起号方案、选题口播、拍摄排期、咨询承接与数据复盘"
+  default_prompt: "使用 $douyin-local-acquisition，根据我的行业、服务区域和主推业务，生成能直接执行的0粉起号方案。"
